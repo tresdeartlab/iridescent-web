@@ -1,0 +1,41 @@
+.App {
+  background-color: white;
+  height: 100vh;
+  width: 100%;
+}
+
+h1 {
+  color: #1d1d1d;
+  font-family: "Outfit";
+  font-size: 4.5rem;
+  text-align: center;
+
+}
+h2 {
+  font-family: "Outfit";
+  font-size: 3.5rem;
+}
+
+h4 {
+  font-family: "Dosis";
+  font-size: 1.5rem;
+}
+
+.presentacion-iridescent {
+  padding-top: 32px;  padding-bottom: 32px;
+  padding-left: 128px;  padding-right: 128px;
+  text-align: center;
+}
+
+button {
+  
+  font-family: "Outfit";
+  font-size: 1.5rem;
+  display: block;
+  text-decoration: none;
+  color: #1d1d1d;
+  background-color: white;
+  padding-top: 0.5rem; padding-bottom: 0.5rem;
+  padding-left: 1rem; padding-right: 1rem;
+  border-radius: 0.5rem;
+}
